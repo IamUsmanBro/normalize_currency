@@ -11,7 +11,7 @@ A Python package to normalize and convert multi-currency columns in pandas.
 ## Installation
 
 ```bash
-pip install git+https://github.com/your-username/normalize_currency.git
+pip install git+https://github.com/IamUsmanBro/normalize_currency.git
 ```
 
 ## Usage
